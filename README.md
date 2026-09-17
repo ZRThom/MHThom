@@ -2,12 +2,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 
-╚═╗----------------------------------╔═╝
-╔═╩══════════════════════════════════╩═╗
-║          DEVELOPER_TERMINAL          ║
-╚═╦══════════════════════════════════╦═╝
-╔═╝----------------------------------╚═╗
-
+> ╚═╗------------------------------------------------------------╔═╝ <br/>
+> ╔═╩══════════════════════════════════╩═╗<br/>
+> ║- - - - - - - - - - - - - - DEVELOPER PANEL - - - - - - - - - - - - - -║<br/>
+> ╚═╦══════════════════════════════════╦═╝<br/>
+> ╔═╝------------------------------------------------------------╚═╗
+>
 > [ OK ] Profile loaded.<br>
 >
 > C:\Users\Thomas\Developer> whoami<br>
@@ -31,15 +31,15 @@ Interested in **game development**, **software development**, **web development*
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
 
 
-> C            [███░░░░░░░]<br>
-> C++          [█████░░░░░]<br>
-> C#           [████████░░]<br>
-> JavaScript   [██████░░░░]<br>
-> Python       [████░░░░░░]<br>
-> Java         [███████░░░]<br>
-> SQL          [████░░░░░░]<br>
-> PHP          [███░░░░░░░]<br>
-> HTML / CSS   [██████░░░░]
+> C ------------> [██░░░░░░░░]<br/>
+> C++ ---------> [████░░░░░░]<br/>
+> C# -----------> [███████░░░]<br/>
+> JavaScript --->  [██████░░░░]<br/>
+> Python ------> [████░░░░░░]<br/>
+> Java ---------> [████████░░]<br/>
+> SQL ---------> [████░░░░░░]<br/>
+> PHP ---------> [███░░░░░░░]<br/>
+> HTML / CSS -> [██████░░░░]
 
 
 ---
@@ -47,21 +47,22 @@ Interested in **game development**, **software development**, **web development*
 ## > SOME OF MY WORK/<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
 
 
-> `NODEVOID/`<br>
-> ├── Unity <br>
-> ├── C#<br>
-> ├── Gameplay systems<br>
-> └── Shader experiments (shaderLab)
+> `NODEVOID/`<br/>
+> ├── Unity <br/>
+> ├── C#<br/>
+> ├── Gameplay systems<br/>
+> ├── Shader experiments (shaderLab) <br/>
+> └── Current project 
 >
-> `WEBSITE_MEMORY_GAME/`<br>
-> ├── HTML / CSS<br>
-> ├── PHP<br>
-> ├── Databases (SQL)<br>
+> `WEBSITE_MEMORY_GAME/`<br/>
+> ├── HTML / CSS<br/>
+> ├── PHP<br/>
+> ├── Databases (SQL)<br/>
 > └── JAVASCRIPT
 >
-> `WEABSITE_API_LINK/`<br>
-> ├── HTML / CSS<br>
-> ├── PHP<br>
+> `WEABSITE_API_LINK/`<br/>
+> ├── HTML / CSS<br/>
+> ├── PHP<br/>
 > └── use of multiple APIs
 
 ---
